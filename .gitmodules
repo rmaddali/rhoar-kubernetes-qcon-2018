@@ -9,7 +9,7 @@
 	url = git@github.com:rhoar-qcon-2018/adjective-service.git
 [submodule "insult-service"]
 	path = insult-service
-	url = git@github.com:rhoar-qcon-2018/insult-service.git
+	url = git@github.com:rmaddali/insult-service.git
 [submodule "lab-infrastructure-as-code"]
 	path = lab-infrastructure-as-code
 	url = git@github.com:rhoar-qcon-2018/lab-infrastructure-as-code.git
